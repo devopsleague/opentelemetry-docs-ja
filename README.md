@@ -1,5 +1,10 @@
 # OpenTelemetry ドキュメント日本語化プロジェクト
 
+> [!IMPORTANT]
+> This repository is archived and will not receive any updates or accept issues or pull requests
+>
+> Localizations for the OpenTelemetry documentation and website are now part of the [website repository](https://github.com/open-telemetry/opentelemetry.io)
+
 OpenTelemetry documents Japanese translation poject
 
 ## 翻訳対象ドキュメント (Target repositories)
